@@ -4298,7 +4298,7 @@ DATAFLOW;SWE;Sweden;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the med
 DATAFLOW;SWE;Sweden;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2010;9.3633;A;Normal value;
 DATAFLOW;SWE;Sweden;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2011;9.1575;A;Normal value;
 DATAFLOW;SWE;Sweden;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2012;9.2857;A;Normal value;
-DATAFLOW;SWE;Sweden;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2013;;A;Normal value;removed 9’375
+DATAFLOW;SWE;Sweden;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2013;9.2921;A;Normal value;removed 9’375
 DATAFLOW;SWE;Sweden;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2014;9.152542373;A;Normal value;
 DATAFLOW;SWE;Sweden;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2015;8.333333333;A;Normal value;
 DATAFLOW;SWE;Sweden;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2016;8.169934641;A;Normal value;
@@ -4344,7 +4344,7 @@ DATAFLOW;BEL;Belgium;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the me
 DATAFLOW;BEL;Belgium;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2012;6.411149826;A;Normal value;
 DATAFLOW;BEL;Belgium;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2013;5.912863071;A;Normal value;
 DATAFLOW;BEL;Belgium;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2014;3.298900367;A;Normal value;
-DATAFLOW;BEL;Belgium;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2015;;A;Normal value;removed 4’672
+DATAFLOW;BEL;Belgium;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2015;3.5000;A;Normal value;removed 4’672
 DATAFLOW;BEL;Belgium;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2016;3.701298701;A;Normal value;
 DATAFLOW;BEL;Belgium;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2017;4.190296156;A;Normal value;
 DATAFLOW;BEL;Belgium;2_2;Gender wage gap;PT_WG_SAL_M_MEDIAN;Percentage of the median wages of men;HSL_2;Work and job quality;2018;3.408756979;A;Normal value;
@@ -4837,7 +4837,7 @@ DATAFLOW;POL;Poland;2_4;Youth not in employment, education or training;PT_POP_Y1
 DATAFLOW;POL;Poland;2_4;Youth not in employment, education or training;PT_POP_Y15T24;Percentage of population aged 15-24 years;HSL_2;Work and job quality;2018;9.3732967;A;Normal value;
 DATAFLOW;POL;Poland;2_4;Youth not in employment, education or training;PT_POP_Y15T24;Percentage of population aged 15-24 years;HSL_2;Work and job quality;2019;8.8543139;A;Normal value;
 DATAFLOW;POL;Poland;2_4;Youth not in employment, education or training;PT_POP_Y15T24;Percentage of population aged 15-24 years;HSL_2;Work and job quality;2020;9.3502884;A;Normal value;
-DATAFLOW;POL;Poland;2_4;Youth not in employment, education or training;PT_POP_Y15T24;Percentage of population aged 15-24 years;HSL_2;Work and job quality;2021;;A;Normal value;removed 11’683
+DATAFLOW;POL;Poland;2_4;Youth not in employment, education or training;PT_POP_Y15T24;Percentage of population aged 15-24 years;HSL_2;Work and job quality;2021;10.7391;A;Normal value;removed 11’683
 DATAFLOW;PRT;Portugal;2_4;Youth not in employment, education or training;PT_POP_Y15T24;Percentage of population aged 15-24 years;HSL_2;Work and job quality;2007;12.127938;A;Normal value;
 DATAFLOW;PRT;Portugal;2_4;Youth not in employment, education or training;PT_POP_Y15T24;Percentage of population aged 15-24 years;HSL_2;Work and job quality;2008;10.45138;A;Normal value;
 DATAFLOW;PRT;Portugal;2_4;Youth not in employment, education or training;PT_POP_Y15T24;Percentage of population aged 15-24 years;HSL_2;Work and job quality;2009;11.527869;A;Normal value;
@@ -6672,7 +6672,7 @@ DATAFLOW;SWE;Sweden;2_8_VER;Top earnings of full-time employees decile;FCTR_D1_E
 DATAFLOW;SWE;Sweden;2_8_VER;Top earnings of full-time employees decile;FCTR_D1_EARN;Factor of lowest earnings decile;HSL_2;Work and job quality;2008;2.053763441;A;Normal value;
 DATAFLOW;SWE;Sweden;2_8_VER;Top earnings of full-time employees decile;FCTR_D1_EARN;Factor of lowest earnings decile;HSL_2;Work and job quality;2009;2.03626943;A;Normal value;
 DATAFLOW;SWE;Sweden;2_8_VER;Top earnings of full-time employees decile;FCTR_D1_EARN;Factor of lowest earnings decile;HSL_2;Work and job quality;2010;2.040816327;A;Normal value;
-DATAFLOW;SWE;Sweden;2_8_VER;Top earnings of full-time employees decile;FCTR_D1_EARN;Factor of lowest earnings decile;HSL_2;Work and job quality;2011;;A;Normal value;
+DATAFLOW;SWE;Sweden;2_8_VER;Top earnings of full-time employees decile;FCTR_D1_EARN;Factor of lowest earnings decile;HSL_2;Work and job quality;2011;2.0948;A;Normal value;
 DATAFLOW;SWE;Sweden;2_8_VER;Top earnings of full-time employees decile;FCTR_D1_EARN;Factor of lowest earnings decile;HSL_2;Work and job quality;2012;2.058823529;A;Normal value;
 DATAFLOW;SWE;Sweden;2_8_VER;Top earnings of full-time employees decile;FCTR_D1_EARN;Factor of lowest earnings decile;HSL_2;Work and job quality;2013;2.081730769;A;Normal value;
 DATAFLOW;SWE;Sweden;2_8_VER;Top earnings of full-time employees decile;FCTR_D1_EARN;Factor of lowest earnings decile;HSL_2;Work and job quality;2014;2.099056604;A;Normal value;
@@ -10721,7 +10721,7 @@ DATAFLOW;SVK;Slovak Republic;6_3_VER;Top science scores decile;FCTR_D1_SCR;Facto
 DATAFLOW;NOR;Norway;6_4;Adult numeracy skills;PO;Points;HSL_6;Knowledge and skills;2012;278.29787;A;Normal value;
 DATAFLOW;GRC;Greece;6_4;Adult numeracy skills;PO;Points;HSL_6;Knowledge and skills;2014;251.86061;A;Normal value;
 DATAFLOW;ITA;Italy;6_4;Adult numeracy skills;PO;Points;HSL_6;Knowledge and skills;2012;247.12892;A;Normal value;
-DATAFLOW;FRA;France;6_4;Adult numeracy skills;PO;Points;HSL_6;Knowledge and skills;2012;;A;Normal value;removed 254192
+DATAFLOW;FRA;France;6_4;Adult numeracy skills;PO;Points;HSL_6;Knowledge and skills;2012;254.192;A;Normal value;
 DATAFLOW;CZE;Czechia;6_4;Adult numeracy skills;PO;Points;HSL_6;Knowledge and skills;2012;275.73383;A;Normal value;
 DATAFLOW;DNK;Denmark;6_4;Adult numeracy skills;PO;Points;HSL_6;Knowledge and skills;2012;278.27838;A;Normal value;
 DATAFLOW;SWE;Sweden;6_4;Adult numeracy skills;PO;Points;HSL_6;Knowledge and skills;2012;279.05243;A;Normal value;
